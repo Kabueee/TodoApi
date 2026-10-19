@@ -24,7 +24,7 @@ Musisz mieć zainstalowany [.NET SDK](https://microsoft.com) (wersja 8.0 lub now
 1. **Pobierz kod (sklonuj repozytorium):**
    ```bash
    git clone https://github.com
-   cd NAZWA_FOLDERU_PROJEKTU
+   cd TodoApi
    ```
 
 2. **Zbuduj projekt i pobierz biblioteki:**
@@ -69,7 +69,7 @@ A RESTful API for managing a task list (To-Do).
 1. Clone the repository and navigate to the project directory:
    ```bash
    git clone https://github.com
-   cd YOUR_PROJECT_FOLDER_NAME
+   cd TodoApi
    ```
 2. Restore packages and dependencies:
    ```bash
